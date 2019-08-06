@@ -22,6 +22,11 @@ $ zos init sample-pj
 $ ganache-cli -p 7545 -d
 ```
 
+#### install npm packages
+```
+$ npm install
+```
+
 #### contract migration
 ```
 $ truffle migrate --network local
@@ -37,6 +42,11 @@ $ zos init sample-pj
 #### start ganache
 ```
 $ ganache-cli -p 7545 -d
+```
+
+#### install npm packages
+```
+$ npm install
 ```
 
 #### deoloy v0
